@@ -1,7 +1,7 @@
 # Johnny_EmailRegex
 
 ## Description.
-In this module challenges we created a Regex tutorial using GitHub Gist. The tutorial that you will find in my gist is how to validate the featured email address regular expression : '/^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$/'. The tutorial breaksdown each component of the regex and provides a thorough explanation. After reading the Gist the readwer will understand how the regex functions to validate an email address. 
+In this module challenges we created a Regex tutorial using GitHub Gist. The tutorial that you will find in my gist is how to validate the featured email address regular expression : '/^([a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})$/'. The tutorial breaksdown each component of the regex and provides a thorough explanation. After reading the Gist the readwer will understand how the regex functions to validate an email address. 
 
 
 
